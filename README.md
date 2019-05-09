@@ -1,2 +1,2 @@
-# Coursesera_ML_Projects
+# Coursera_ML_Projects
 Develop and apply Data Science, Machine Learning techniques
